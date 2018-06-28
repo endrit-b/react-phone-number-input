@@ -17,6 +17,7 @@ npm-debug.log
 
 # for OS X users
 .DS_Store
+.idea/
 
 # cache files for sublime text
 *.tmlanguage.cache
